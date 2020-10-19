@@ -1,20 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2020-10-19T03:07:48.810Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="OCDYJUSZewwvvGc-00Bp" version="13.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-19T03:13:12.044Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="_ARvzzDFzXZAVygZf42l" version="13.4.9" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1350" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1590" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sqilVZkOUBa6XORCe38h-3" value="Staff" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sqilVZkOUBa6XORCe38h-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sqilVZkOUBa6XORCe38h-4" target="sqilVZkOUBa6XORCe38h-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-4" value="User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="241.66" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-5" value="Result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="241.66" y="850" width="120" height="60" as="geometry" />
+          <mxGeometry x="241.66" y="860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-6" value="Category" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="320" width="120" height="60" as="geometry" />
@@ -31,12 +28,6 @@
         <mxCell id="sqilVZkOUBa6XORCe38h-11" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;font size=&quot;1&quot;&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 255) ; font-size: 12px&quot;&gt;Quiz&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sqilVZkOUBa6XORCe38h-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="sqilVZkOUBa6XORCe38h-13" target="sqilVZkOUBa6XORCe38h-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="sqilVZkOUBa6XORCe38h-13" value="Has" style="html=1;whiteSpace=wrap;aspect=fixed;shape=isoRectangle;" vertex="1" parent="1">
-          <mxGeometry x="251.66" y="740" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-16" value="VisualObject" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1080" y="160" width="120" height="60" as="geometry" />
         </mxCell>
@@ -47,19 +38,34 @@
           <mxGeometry x="640" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-19" value="Reward" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="720" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-20" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;QuizReward&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sqilVZkOUBa6XORCe38h-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sqilVZkOUBa6XORCe38h-21" value="DragAndDropQuiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="990" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sqilVZkOUBa6XORCe38h-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sqilVZkOUBa6XORCe38h-22" value="MatchThePairQuiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1150" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sqilVZkOUBa6XORCe38h-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sqilVZkOUBa6XORCe38h-23" value="MCQuiz" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1310" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqilVZkOUBa6XORCe38h-24" value="Blank&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;QuizPart&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqilVZkOUBa6XORCe38h-25" value="Pair&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;QuizPart&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqilVZkOUBa6XORCe38h-26" value="MC&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;QuizPart&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1310" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqilVZkOUBa6XORCe38h-27" value="&lt;span style=&quot;text-align: left ; background-color: rgb(255 , 255 , 255)&quot;&gt;QuizPart&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sqilVZkOUBa6XORCe38h-29" value="Relationship" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="240" y="750" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
