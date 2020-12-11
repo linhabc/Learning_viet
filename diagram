@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-11T14:52:13.151Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="FzK2RY1-Y7T64sK1AfVK" version="13.10.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2020-12-11T15:08:39.996Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="LQ6iWw2Uc2iy1PLaEQyI" version="13.10.4" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1350" dy="806" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -579,6 +579,17 @@
         </mxCell>
         <mxCell id="ZXD_mqif_4gjFhzImrxJ-3" value="userId" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="290" y="1220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JK71ptQlzSA3AC6qwGvx-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="JK71ptQlzSA3AC6qwGvx-1" target="DJeXLLqG1ElkNJcFQsKJ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1800" y="110" />
+              <mxPoint x="1800" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JK71ptQlzSA3AC6qwGvx-1" value="audioURL" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="90" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
