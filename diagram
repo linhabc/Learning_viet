@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-07T07:20:33.561Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="3tncMRoi57Zq-GomuPk5" version="14.6.10" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-05-07T07:21:20.607Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="kNKWiPcyq-9hRHLoQi3u" version="14.6.10" type="github" pages="2">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
-    <mxGraphModel dx="3518" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1182" dy="688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -379,7 +379,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-160" value="unitsDone" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="110" y="1460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pt4osX4ZtHdExK1pFYq1-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sqilVZkOUBa6XORCe38h-163">
           <mxGeometry relative="1" as="geometry">
@@ -387,7 +387,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-163" value="topicsDone" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="200" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="220" y="1460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pt4osX4ZtHdExK1pFYq1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="sqilVZkOUBa6XORCe38h-165" target="pt4osX4ZtHdExK1pFYq1-2">
           <mxGeometry relative="1" as="geometry" />
@@ -398,13 +398,13 @@
         <mxCell id="pt4osX4ZtHdExK1pFYq1-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sqilVZkOUBa6XORCe38h-169" target="pt4osX4ZtHdExK1pFYq1-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="340" y="1415" />
+              <mxPoint x="380" y="1415" />
               <mxPoint x="280" y="1415" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-169" value="quizzesDone" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="320" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry x="330" y="1460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sqilVZkOUBa6XORCe38h-175" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="sqilVZkOUBa6XORCe38h-171" target="sqilVZkOUBa6XORCe38h-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -648,13 +648,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="pt4osX4ZtHdExK1pFYq1-23" value="categoriesDone" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;sketch=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="1460" width="100" height="40" as="geometry" />
+          <mxGeometry y="1460" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pt4osX4ZtHdExK1pFYq1-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pt4osX4ZtHdExK1pFYq1-27" target="sqilVZkOUBa6XORCe38h-169">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="120" y="1550" />
-              <mxPoint x="370" y="1550" />
+              <mxPoint x="380" y="1550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -666,7 +666,8 @@
             <mxPoint x="370" y="1500" as="targetPoint" />
             <Array as="points">
               <mxPoint x="230" y="1550" />
-              <mxPoint x="370" y="1550" />
+              <mxPoint x="380" y="1550" />
+              <mxPoint x="380" y="1500" />
             </Array>
           </mxGeometry>
         </mxCell>
