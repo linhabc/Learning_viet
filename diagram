@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T07:32:30.097Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="oi79gCJ2KFkkDl4Z_Vpk" version="14.6.11" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-05-11T07:33:34.063Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="OHBhJlyvRXmw7iVzNlwt" version="14.6.11" type="github" pages="3">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1319,6 +1319,12 @@
         </mxCell>
         <mxCell id="Yl7u_qOOGRwy3KOUAyei-10" value="MongoDb" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
           <mxGeometry x="930.5" y="429.32" width="63" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7u_qOOGRwy3KOUAyei-12" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_128x128.png" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
+          <mxGeometry x="619" y="347" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Yl7u_qOOGRwy3KOUAyei-13" value="Backend Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
+          <mxGeometry x="601" y="427" width="116" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
