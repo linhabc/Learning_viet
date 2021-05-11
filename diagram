@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-11T09:49:15.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="mCbUpBbdqPP4AQoxkNR1" version="14.6.11" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-11T09:49:34.971Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="4fhMQoMzvaxbl_WcAsME" version="14.6.11" type="github" pages="5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1314,13 +1314,13 @@
         <mxCell id="Yl7u_qOOGRwy3KOUAyei-3" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.tablet;pointerEvents=1;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
           <mxGeometry x="131" y="163.5" width="143" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="Yl7u_qOOGRwy3KOUAyei-4" value="CMS website" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
+        <mxCell id="Yl7u_qOOGRwy3KOUAyei-4" value="&lt;b&gt;CMS website&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
           <mxGeometry x="890.5" y="657.38" width="102" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Yl7u_qOOGRwy3KOUAyei-13" value="&lt;b&gt;Back-end Server&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
           <mxGeometry x="369" y="511" width="116" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="Yl7u_qOOGRwy3KOUAyei-14" value="tablet" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
+        <mxCell id="Yl7u_qOOGRwy3KOUAyei-14" value="&lt;b&gt;Tablet&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
           <mxGeometry x="176" y="290.82" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sm-b_NyzRxTLAzn4lzYk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="nxTA1-jrFET_XV3NjY6a-1">
