@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T10:59:11.554Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Pp_bGZp_JuSX6bHsdM3v" version="14.6.12" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-12T10:59:40.134Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="qFn9Pxv5dQVfvrJZ9qw9" version="14.6.12" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1416,31 +1416,31 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TI_vZgEJZuu16ilcoldg-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="371" y="262" width="55" height="94" as="geometry" />
+          <mxGeometry x="344" y="393" width="55" height="94" as="geometry" />
         </mxCell>
         <mxCell id="TI_vZgEJZuu16ilcoldg-3" value="Authentication" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="530" y="47" width="120" height="80" as="geometry" />
+          <mxGeometry x="503" y="178" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-0" value="Learning theory" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="794" y="480" width="120" height="80" as="geometry" />
+          <mxGeometry x="767" y="611" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-1" value="Doing exercise" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="794" y="331" width="120" height="80" as="geometry" />
+          <mxGeometry x="767" y="462" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="TI_vZgEJZuu16ilcoldg-1" source="Pse1x9V60xgWXEzjOn73-2" target="Pse1x9V60xgWXEzjOn73-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-2" value="Doing test" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="794" y="169" width="120" height="80" as="geometry" />
+          <mxGeometry x="767" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-3" value="Choosing category" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="530" y="141" width="120" height="80" as="geometry" />
+          <mxGeometry x="503" y="272" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-4" value="Choosing topic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="530" y="230" width="120" height="80" as="geometry" />
+          <mxGeometry x="503" y="361" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-5" value="Choosing subtopic" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="530" y="323" width="120" height="80" as="geometry" />
+          <mxGeometry x="503" y="454" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-8" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;" edge="1" parent="TI_vZgEJZuu16ilcoldg-1" source="Pse1x9V60xgWXEzjOn73-7" target="Pse1x9V60xgWXEzjOn73-5">
           <mxGeometry relative="1" as="geometry" />
@@ -1462,10 +1462,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-7" value="Learning unit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="530" y="476" width="120" height="80" as="geometry" />
+          <mxGeometry x="503" y="607" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Pse1x9V60xgWXEzjOn73-20" value="General usecase" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="TI_vZgEJZuu16ilcoldg-1">
-          <mxGeometry x="478" y="9" width="469" height="570" as="geometry" />
+          <mxGeometry x="451" y="140" width="469" height="570" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
