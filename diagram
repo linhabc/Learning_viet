@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T10:37:10.351Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="HftV78rbnrYcuqh-LoW6" version="14.6.12" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-12T10:37:44.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="Z8OjvFhGJll_ffCd674y" version="14.6.12" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1447,7 +1447,7 @@
         <mxCell id="1ITMULCovLcdUqZuXMUu-0" />
         <mxCell id="1ITMULCovLcdUqZuXMUu-1" parent="1ITMULCovLcdUqZuXMUu-0" />
         <mxCell id="Qk-P5gs61hv1x8kmC2VC-0" value="Usecase" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
-          <mxGeometry x="274" y="22" width="602" height="570" as="geometry" />
+          <mxGeometry x="307" y="27" width="523" height="544" as="geometry" />
         </mxCell>
         <mxCell id="fMWV8VUGfsAmbxu1nna4-0" value="Doing quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
           <mxGeometry x="341" y="171" width="140" height="70" as="geometry" />
@@ -1495,8 +1495,8 @@
         <mxCell id="fMWV8VUGfsAmbxu1nna4-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-13" target="fMWV8VUGfsAmbxu1nna4-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fMWV8VUGfsAmbxu1nna4-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
-          <mxGeometry x="132" y="189" width="30" height="60" as="geometry" />
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-13" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="213" y="176" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
