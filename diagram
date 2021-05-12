@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T10:17:49.523Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="JEFYxoBkbfgm03H35kOG" version="14.6.12" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2021-05-12T10:36:56.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="b3kDcgeQYwEn0psiThnj" version="14.6.12" type="github" pages="6">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1396,15 +1396,17 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-lMq1ApAxKa9mCszqwGq" name="Usecase: Doing quiz ">
-    <mxGraphModel dx="1449" dy="627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-0" />
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-1" parent="CJJ8LGtJtTGwLY5N7YLZ-0" />
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-11" value="Doing quiz usecase" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="221" y="26" width="622" height="646" as="geometry" />
+          <mxGeometry x="419" y="42" width="411" height="515" as="geometry" />
         </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=0;shadow=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-2" target="CJJ8LGtJtTGwLY5N7YLZ-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;sketch=0;shadow=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-2" target="0R2uEMcaxJo60ZG8nmQ6-0" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480.5" y="161" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-17" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-2" target="CJJ8LGtJtTGwLY5N7YLZ-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1419,68 +1421,88 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="30" y="208" width="83" height="146" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-3" value="Doing quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="300.5" y="138" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-20" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=block;endFill=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-4" target="CJJ8LGtJtTGwLY5N7YLZ-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-4" value="Doing multi choice quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="632" y="43" width="140" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-22" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-5" target="CJJ8LGtJtTGwLY5N7YLZ-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-5" value="Doing drag and drop quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="626" y="138" width="161" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-23" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-6" target="CJJ8LGtJtTGwLY5N7YLZ-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="459" y="177" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-6" value="Doing match the pair quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="632" y="225" width="164" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-24" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;entryX=0.932;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-7" target="CJJ8LGtJtTGwLY5N7YLZ-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-7" value="Doing element in word quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="627.5" y="308" width="173" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-25" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-8" target="CJJ8LGtJtTGwLY5N7YLZ-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="429.3529411764707" y="191.0588235294117" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-8" value="Doing tone of word quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="634.75" y="398" width="158.5" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-26" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.805;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="CJJ8LGtJtTGwLY5N7YLZ-9" target="CJJ8LGtJtTGwLY5N7YLZ-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-9" value="Doing word in sentence quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="629.5" y="488" width="182.5" height="68" as="geometry" />
+          <mxGeometry x="266" y="209.5" width="83" height="146" as="geometry" />
         </mxCell>
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-14" value="Using hint" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="300.5" y="384.5" width="162" height="58" as="geometry" />
+          <mxGeometry x="540.5" y="267" width="162" height="58" as="geometry" />
         </mxCell>
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-15" value="Reset quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="297" y="473" width="169" height="67" as="geometry" />
+          <mxGeometry x="537" y="355.5" width="169" height="67" as="geometry" />
         </mxCell>
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-16" value="Check result" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="297" y="563" width="178" height="56" as="geometry" />
+          <mxGeometry x="537" y="445.5" width="178" height="56" as="geometry" />
         </mxCell>
         <mxCell id="HJYYaluCBEMWQj28RZzN-0" value="Playing media object" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
-          <mxGeometry x="296.5" y="267" width="166" height="71" as="geometry" />
+          <mxGeometry x="543" y="170" width="166" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="0R2uEMcaxJo60ZG8nmQ6-0" value="Doing quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="CJJ8LGtJtTGwLY5N7YLZ-1">
+          <mxGeometry x="554.5" y="88" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="mC3hHmpA5nTQMEnhV-j9" name="Page-5">
-    <mxGraphModel dx="1449" dy="627" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="3HokIYaqTa6TVEqVsQLD" name="Page-6">
+    <mxGraphModel dx="1209" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="1ITMULCovLcdUqZuXMUu-0" />
+        <mxCell id="1ITMULCovLcdUqZuXMUu-1" parent="1ITMULCovLcdUqZuXMUu-0" />
+        <mxCell id="Qk-P5gs61hv1x8kmC2VC-0" value="Usecase" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="274" y="22" width="602" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-0" value="Doing quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="341" y="171" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-1" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-2" target="fMWV8VUGfsAmbxu1nna4-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-2" value="Doing multi choice quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="632" y="43" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-3" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-4" target="fMWV8VUGfsAmbxu1nna4-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-4" value="Doing drag and drop quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="626" y="138" width="161" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-5" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-6" target="fMWV8VUGfsAmbxu1nna4-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="459" y="177" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-6" value="Doing match the pair quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="632" y="225" width="164" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-7" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;entryX=0.932;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-8" target="fMWV8VUGfsAmbxu1nna4-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-8" value="Doing element in word quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="627.5" y="308" width="173" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-9" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-10" target="fMWV8VUGfsAmbxu1nna4-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="429.3529411764707" y="191.0588235294117" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-10" value="Doing tone of word quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="634.75" y="398" width="158.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-11" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.805;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-12" target="fMWV8VUGfsAmbxu1nna4-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-12" value="Doing word in sentence quiz" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="629.5" y="488" width="182.5" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-13" target="fMWV8VUGfsAmbxu1nna4-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fMWV8VUGfsAmbxu1nna4-13" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
+          <mxGeometry x="132" y="189" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mC3hHmpA5nTQMEnhV-j9" name="Usecase: Playing media object ">
+    <mxGraphModel dx="1449" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="A0ftvao89xw5aBNeSjIZ-0" />
         <mxCell id="A0ftvao89xw5aBNeSjIZ-1" parent="A0ftvao89xw5aBNeSjIZ-0" />
