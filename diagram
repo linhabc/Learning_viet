@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-12T10:42:06.154Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="tAvKXJeoxldwri9-oE0t" version="14.6.12" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-05-12T10:44:09.516Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="S1XRoLbLGsEUhWjC5qpZ" version="14.6.12" type="github" pages="5">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1395,7 +1395,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="-lMq1ApAxKa9mCszqwGq" name="Usecase: Doing quiz ">
+  <diagram id="-lMq1ApAxKa9mCszqwGq" name="Usecase: Doing exercise">
     <mxGraphModel dx="1209" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-0" />
@@ -1483,27 +1483,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="3HokIYaqTa6TVEqVsQLD" name="Page-6">
-    <mxGraphModel dx="1209" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
-      <root>
-        <mxCell id="1ITMULCovLcdUqZuXMUu-0" />
-        <mxCell id="1ITMULCovLcdUqZuXMUu-1" parent="1ITMULCovLcdUqZuXMUu-0" />
-        <mxCell id="Qk-P5gs61hv1x8kmC2VC-0" value="Usecase Doing quiz" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
-          <mxGeometry x="961" y="39" width="523" height="544" as="geometry" />
-        </mxCell>
-        <mxCell id="fMWV8VUGfsAmbxu1nna4-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1ITMULCovLcdUqZuXMUu-1" source="fMWV8VUGfsAmbxu1nna4-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="341" y="206" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="fMWV8VUGfsAmbxu1nna4-13" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1ITMULCovLcdUqZuXMUu-1">
-          <mxGeometry x="213" y="176" width="30" height="60" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
   <diagram id="mC3hHmpA5nTQMEnhV-j9" name="Usecase: Playing media object ">
-    <mxGraphModel dx="1449" dy="598" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="661" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="A0ftvao89xw5aBNeSjIZ-0" />
         <mxCell id="A0ftvao89xw5aBNeSjIZ-1" parent="A0ftvao89xw5aBNeSjIZ-0" />
