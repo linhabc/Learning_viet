@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T02:53:51.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Yzn7HoxkautxG--J0kPn" version="14.6.13" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-05-25T03:30:02.319Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="uIWPplt28vCdG9_g6AQK" version="14.6.13" type="github" pages="12">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="839" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1790,7 +1790,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I_tlUSQdEEIAFyoE7K8O" name="Usecase: View learning progress">
-    <mxGraphModel dx="839" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="579" dy="479" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wIXsfpwPJ8RQxPTotu0e-0" />
         <mxCell id="wIXsfpwPJ8RQxPTotu0e-1" parent="wIXsfpwPJ8RQxPTotu0e-0" />
@@ -1809,10 +1809,10 @@
         <mxCell id="Pdrq3o-0vlFAk1WBDch0-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
           <mxGeometry x="210" y="266.11" width="62" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-5" value="View the number of slides learned in an unit" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
+        <mxCell id="Pdrq3o-0vlFAk1WBDch0-5" value="View the number of slides learned in a lesson" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
           <mxGeometry x="360" y="360" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-6" value="View report after done learning an unit" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
+        <mxCell id="Pdrq3o-0vlFAk1WBDch0-6" value="View report after completing a lesson" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
           <mxGeometry x="360" y="420" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Pdrq3o-0vlFAk1WBDch0-7" value="View the number of courses learned" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
@@ -1831,7 +1831,7 @@
             <mxPoint x="272" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-12" value="View the number of units learned in a topic" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
+        <mxCell id="Pdrq3o-0vlFAk1WBDch0-12" value="View the number of lessons learned in a topic" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
           <mxGeometry x="360" y="300.11" width="280" height="41" as="geometry" />
         </mxCell>
       </root>
