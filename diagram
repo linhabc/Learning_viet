@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T16:33:27.047Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="jfrHR-91AEEqymLCT95l" version="14.6.13" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-05-25T16:34:23.094Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="MObS6Dg1GwAI6qg0CReo" version="14.6.13" type="github" pages="12">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="839" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1294,8 +1294,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="QxpiXYLWVerADad33ez9" name="Page-3">
-    <mxGraphModel dx="1186" dy="694" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+  <diagram id="QxpiXYLWVerADad33ez9" name="General-architecture">
+    <mxGraphModel dx="1694" dy="991" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="nxTA1-jrFET_XV3NjY6a-0" />
         <mxCell id="nxTA1-jrFET_XV3NjY6a-1" parent="nxTA1-jrFET_XV3NjY6a-0" />
