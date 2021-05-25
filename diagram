@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-25T02:22:29.328Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="J95VRz9eb7fEdCOkvEwA" version="14.6.13" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2021-05-25T02:53:51.474Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="Yzn7HoxkautxG--J0kPn" version="14.6.13" type="github" pages="12">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="839" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1742,12 +1742,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5FWeATV66wA1mJQOcRhn" name="Usecase: View courses&#39; information">
-    <mxGraphModel dx="839" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="479" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="-LGMktaMb18ux0lbZrJ7-0" />
         <mxCell id="-LGMktaMb18ux0lbZrJ7-1" parent="-LGMktaMb18ux0lbZrJ7-0" />
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-0" value="View courses&#39; information" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=40;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="-LGMktaMb18ux0lbZrJ7-1" vertex="1">
-          <mxGeometry x="320.5" y="120" width="279" height="300" as="geometry" />
+          <mxGeometry x="320.5" y="120" width="279" height="360" as="geometry" />
         </mxCell>
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-1" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="-LGMktaMb18ux0lbZrJ7-1" source="EmHAOQHMIRBodqIQ9FVP-4" target="EmHAOQHMIRBodqIQ9FVP-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -1759,16 +1759,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="-LGMktaMb18ux0lbZrJ7-1" vertex="1">
-          <mxGeometry x="210" y="241" width="62" height="109" as="geometry" />
+          <mxGeometry x="210" y="265.5" width="62" height="109" as="geometry" />
         </mxCell>
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-5" value="View list of available courses" style="ellipse;whiteSpace=wrap;html=1;" parent="-LGMktaMb18ux0lbZrJ7-1" vertex="1">
           <mxGeometry x="360" y="180" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-6" value="View list of topics in a course" style="ellipse;whiteSpace=wrap;html=1;" parent="-LGMktaMb18ux0lbZrJ7-1" vertex="1">
-          <mxGeometry x="360" y="241" width="200" height="40" as="geometry" />
+          <mxGeometry x="360" y="300" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-7" value="View list of lessons in a topic" style="ellipse;whiteSpace=wrap;html=1;" parent="-LGMktaMb18ux0lbZrJ7-1" vertex="1">
-          <mxGeometry x="360" y="299" width="200" height="41" as="geometry" />
+          <mxGeometry x="360" y="358" width="200" height="41" as="geometry" />
         </mxCell>
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-8" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="-LGMktaMb18ux0lbZrJ7-1" source="EmHAOQHMIRBodqIQ9FVP-4" target="EmHAOQHMIRBodqIQ9FVP-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1776,7 +1776,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-9" value="View lesson&#39;s overview information" style="ellipse;whiteSpace=wrap;html=1;" parent="-LGMktaMb18ux0lbZrJ7-1" vertex="1">
-          <mxGeometry x="360" y="360" width="200" height="41" as="geometry" />
+          <mxGeometry x="360" y="419" width="200" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="CAgH_5ffh57GTvf6w9Wv-0" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" edge="1" parent="-LGMktaMb18ux0lbZrJ7-1" target="CAgH_5ffh57GTvf6w9Wv-1" source="EmHAOQHMIRBodqIQ9FVP-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="272.0000000000001" y="246.67226890756308" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CAgH_5ffh57GTvf6w9Wv-1" value="View information about a course" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="-LGMktaMb18ux0lbZrJ7-1">
+          <mxGeometry x="360" y="241" width="200" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
