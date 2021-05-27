@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-27T04:12:14.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="54ReXIzneJonUMa6AfMb" version="14.6.13" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-05-27T08:19:25.342Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="0WA7h7u8dcJ23EPYwtiz" version="14.6.13" type="github" pages="14">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2089,6 +2089,12 @@
         </mxCell>
         <mxCell id="LxGaPRsk1OL-BPQvavob-31" value="&amp;lt;&amp;lt;enum&amp;gt;&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="LxGaPRsk1OL-BPQvavob-1">
           <mxGeometry x="400" y="60" width="40" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="LxGaPRsk1OL-BPQvavob-32" value="TextWithSound" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;gradientColor=#ffffff;" vertex="1" parent="LxGaPRsk1OL-BPQvavob-1">
+          <mxGeometry x="40" y="240" width="280" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LxGaPRsk1OL-BPQvavob-33" value="+ text: String&#xa;+ audioUrl: String&#xa;+ realisedAcoustParams: [RealisedAcoustParams]" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=middle;resizable=0;rotatable=0;part=1;spacingTop=0;spacing=2;" vertex="1" parent="LxGaPRsk1OL-BPQvavob-32">
+          <mxGeometry y="30" width="280" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
