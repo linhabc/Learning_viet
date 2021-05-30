@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T03:32:30.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cnIfjJsMwBWhgn0EMMom" version="14.7.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2021-05-30T06:34:56.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="f8Y91o05-8moYFbB3kKd" version="14.7.2" type="github" pages="20">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2213,7 +2213,7 @@
         <mxCell id="A0ftvao89xw5aBNeSjIZ-0" />
         <mxCell id="A0ftvao89xw5aBNeSjIZ-1" parent="A0ftvao89xw5aBNeSjIZ-0" />
         <mxCell id="A0ftvao89xw5aBNeSjIZ-2" value="Playing media object usecase" style="shape=umlFrame;whiteSpace=wrap;html=1;width=120;height=30;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="A0ftvao89xw5aBNeSjIZ-1" vertex="1">
-          <mxGeometry x="321" y="113" width="475" height="435" as="geometry" />
+          <mxGeometry x="350" y="197" width="466" height="279" as="geometry" />
         </mxCell>
         <mxCell id="A0ftvao89xw5aBNeSjIZ-11" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="A0ftvao89xw5aBNeSjIZ-1" source="A0ftvao89xw5aBNeSjIZ-3" target="A0ftvao89xw5aBNeSjIZ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2225,16 +2225,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="A0ftvao89xw5aBNeSjIZ-3" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="A0ftvao89xw5aBNeSjIZ-1" vertex="1">
-          <mxGeometry x="211" y="250" width="62" height="109" as="geometry" />
+          <mxGeometry x="211" y="280" width="62" height="109" as="geometry" />
         </mxCell>
         <mxCell id="A0ftvao89xw5aBNeSjIZ-7" value="Playing text with sound" style="ellipse;whiteSpace=wrap;html=1;" parent="A0ftvao89xw5aBNeSjIZ-1" vertex="1">
-          <mxGeometry x="491" y="182" width="165" height="79" as="geometry" />
+          <mxGeometry x="491.5" y="216" width="228.5" height="79" as="geometry" />
         </mxCell>
         <mxCell id="A0ftvao89xw5aBNeSjIZ-8" value="View image" style="ellipse;whiteSpace=wrap;html=1;" parent="A0ftvao89xw5aBNeSjIZ-1" vertex="1">
-          <mxGeometry x="514" y="303" width="120" height="80" as="geometry" />
+          <mxGeometry x="495.75" y="299" width="220" height="80" as="geometry" />
         </mxCell>
         <mxCell id="A0ftvao89xw5aBNeSjIZ-9" value="Playing video" style="ellipse;whiteSpace=wrap;html=1;" parent="A0ftvao89xw5aBNeSjIZ-1" vertex="1">
-          <mxGeometry x="514" y="431" width="120" height="80" as="geometry" />
+          <mxGeometry x="497.25" y="389" width="217" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
