@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-30T03:29:21.482Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="YjVrmN5f3GGJv34qVLnB" version="14.7.2" type="github" pages="20">
+<mxfile host="app.diagrams.net" modified="2021-05-30T03:32:30.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="cnIfjJsMwBWhgn0EMMom" version="14.7.2" type="github" pages="20">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1449" dy="627" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2165,7 +2165,7 @@
         <mxCell id="Zhx_FtyLxJwDUy52ZEim-1" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="Zhx_FtyLxJwDUy52ZEim-2" target="Zhx_FtyLxJwDUy52ZEim-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zhx_FtyLxJwDUy52ZEim-2" value="Doing multi choice quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
+        <mxCell id="Zhx_FtyLxJwDUy52ZEim-2" value="Doing multi choices quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
           <mxGeometry x="845.5" y="51" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Zhx_FtyLxJwDUy52ZEim-3" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="Zhx_FtyLxJwDUy52ZEim-4" edge="1">
@@ -2187,7 +2187,7 @@
         <mxCell id="Zhx_FtyLxJwDUy52ZEim-7" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;entryX=0.932;entryY=0.765;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="Zhx_FtyLxJwDUy52ZEim-8" target="Zhx_FtyLxJwDUy52ZEim-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zhx_FtyLxJwDUy52ZEim-8" value="Doing element in word quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
+        <mxCell id="Zhx_FtyLxJwDUy52ZEim-8" value="Doing elements in word quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
           <mxGeometry x="838" y="283" width="173" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Zhx_FtyLxJwDUy52ZEim-9" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="Zhx_FtyLxJwDUy52ZEim-10" target="Zhx_FtyLxJwDUy52ZEim-0" edge="1">
@@ -2201,7 +2201,7 @@
         <mxCell id="Zhx_FtyLxJwDUy52ZEim-11" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=0;endArrow=block;endFill=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.805;entryY=0.899;entryDx=0;entryDy=0;entryPerimeter=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="Zhx_FtyLxJwDUy52ZEim-12" target="Zhx_FtyLxJwDUy52ZEim-0" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Zhx_FtyLxJwDUy52ZEim-12" value="Doing word in sentence quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
+        <mxCell id="Zhx_FtyLxJwDUy52ZEim-12" value="Doing words in sentence quiz" style="ellipse;whiteSpace=wrap;html=1;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
           <mxGeometry x="833.25" y="436" width="182.5" height="68" as="geometry" />
         </mxCell>
       </root>
