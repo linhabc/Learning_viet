@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T08:42:23.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="IFrFzzBqpuAzwcQbuMfY" version="14.7.3" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-13T08:43:04.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="zl0t60Sdpdyt7tMpinSK" version="14.7.3" type="github" pages="23">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2292,7 +2292,7 @@
       <root>
         <mxCell id="-LGMktaMb18ux0lbZrJ7-0" />
         <mxCell id="-LGMktaMb18ux0lbZrJ7-1" parent="-LGMktaMb18ux0lbZrJ7-0" />
-        <mxCell id="EmHAOQHMIRBodqIQ9FVP-0" value="View course information" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=40;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="-LGMktaMb18ux0lbZrJ7-1" vertex="1">
+        <mxCell id="EmHAOQHMIRBodqIQ9FVP-0" value="View study program&#39;s information" style="shape=umlFrame;whiteSpace=wrap;html=1;width=200;height=40;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="-LGMktaMb18ux0lbZrJ7-1" vertex="1">
           <mxGeometry x="320.5" y="120" width="279" height="360" as="geometry" />
         </mxCell>
         <mxCell id="EmHAOQHMIRBodqIQ9FVP-1" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="-LGMktaMb18ux0lbZrJ7-1" source="EmHAOQHMIRBodqIQ9FVP-4" target="EmHAOQHMIRBodqIQ9FVP-5" edge="1">
