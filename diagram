@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-13T08:43:04.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="zl0t60Sdpdyt7tMpinSK" version="14.7.3" type="github" pages="23">
+<mxfile host="app.diagrams.net" modified="2021-06-13T08:46:21.945Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36" etag="rx0Z82cgXlM1fZMXJvMj" version="14.7.3" type="github" pages="23">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2336,49 +2336,43 @@
     </mxGraphModel>
   </diagram>
   <diagram id="I_tlUSQdEEIAFyoE7K8O" name="Usecase: View learning progress">
-    <mxGraphModel dx="1186" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="wIXsfpwPJ8RQxPTotu0e-0" />
         <mxCell id="wIXsfpwPJ8RQxPTotu0e-1" parent="wIXsfpwPJ8RQxPTotu0e-0" />
         <mxCell id="Pdrq3o-0vlFAk1WBDch0-0" value="View learning progress" style="shape=umlFrame;whiteSpace=wrap;html=1;width=160;height=40;boundedLbl=1;verticalAlign=middle;align=left;spacingLeft=5;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
-          <mxGeometry x="320.5" y="120" width="359.5" height="360" as="geometry" />
+          <mxGeometry x="320.5" y="120" width="279.5" height="300" as="geometry" />
         </mxCell>
         <mxCell id="Pdrq3o-0vlFAk1WBDch0-1" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" source="Pdrq3o-0vlFAk1WBDch0-4" target="Pdrq3o-0vlFAk1WBDch0-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-2" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" source="Pdrq3o-0vlFAk1WBDch0-4" target="Pdrq3o-0vlFAk1WBDch0-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pdrq3o-0vlFAk1WBDch0-3" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" source="Pdrq3o-0vlFAk1WBDch0-4" target="Pdrq3o-0vlFAk1WBDch0-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Pdrq3o-0vlFAk1WBDch0-4" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
-          <mxGeometry x="210" y="266.11" width="62" height="109" as="geometry" />
+          <mxGeometry x="210" y="232.11" width="62" height="109" as="geometry" />
         </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-5" value="View the number of slides learned in a lesson" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
-          <mxGeometry x="360" y="360" width="280" height="40" as="geometry" />
+        <mxCell id="Pdrq3o-0vlFAk1WBDch0-5" value="View learning progress of course" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
+          <mxGeometry x="360" y="360" width="200" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-6" value="View report after completing a lesson" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
-          <mxGeometry x="360" y="420" width="280" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-7" value="View the number of courses learned" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
-          <mxGeometry x="360.25" y="180" width="280" height="41" as="geometry" />
+        <mxCell id="Pdrq3o-0vlFAk1WBDch0-7" value="View learning progress of lesson" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
+          <mxGeometry x="360.25" y="180" width="199.75" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Pdrq3o-0vlFAk1WBDch0-8" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" source="Pdrq3o-0vlFAk1WBDch0-4" target="Pdrq3o-0vlFAk1WBDch0-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="364.1864406779662" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-9" value="View the number of topics learned in a course" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
-          <mxGeometry x="360" y="241" width="280.25" height="41" as="geometry" />
+        <mxCell id="Pdrq3o-0vlFAk1WBDch0-9" value="View learning report of lesson" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
+          <mxGeometry x="360" y="241" width="200" height="41" as="geometry" />
         </mxCell>
         <mxCell id="Pdrq3o-0vlFAk1WBDch0-11" style="edgeStyle=none;rounded=0;sketch=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;shadow=0;endArrow=classic;endFill=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" source="Pdrq3o-0vlFAk1WBDch0-4" target="Pdrq3o-0vlFAk1WBDch0-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="272" y="300" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Pdrq3o-0vlFAk1WBDch0-12" value="View the number of lessons learned in a topic" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
-          <mxGeometry x="360" y="300.11" width="280" height="41" as="geometry" />
+        <mxCell id="Pdrq3o-0vlFAk1WBDch0-12" value="View learning progress of topic" style="ellipse;whiteSpace=wrap;html=1;" parent="wIXsfpwPJ8RQxPTotu0e-1" vertex="1">
+          <mxGeometry x="360" y="300.11" width="200" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
