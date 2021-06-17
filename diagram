@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-17T05:23:14.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="kpGRwlTWq9dqsfvlgaBt" version="14.7.10" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-06-17T05:28:53.292Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="chb0vM5L6oUwQ-UPgK9g" version="14.7.10" type="github" pages="24">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1209" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1468,7 +1468,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="8LEHlzIS48jYmAAGcxrw" name="Backend general architecture">
-    <mxGraphModel dx="1449" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1209" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="s0vS6T7ZR6d3VVXpmbaL-0" />
         <mxCell id="s0vS6T7ZR6d3VVXpmbaL-1" parent="s0vS6T7ZR6d3VVXpmbaL-0" />
@@ -1786,6 +1786,15 @@
         </mxCell>
         <mxCell id="ZttThLhqbb-IyCdtzlfM-39" value="learnningResult&lt;br&gt;Controller" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=#ffffff;" parent="s0vS6T7ZR6d3VVXpmbaL-1" vertex="1">
           <mxGeometry x="1809" y="1081" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZcNzLMW6mV6-9NS138O-4" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" edge="1" parent="s0vS6T7ZR6d3VVXpmbaL-1" source="2ZcNzLMW6mV6-9NS138O-2" target="s0vS6T7ZR6d3VVXpmbaL-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZcNzLMW6mV6-9NS138O-2" value="" style="html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon;prIcon=api" vertex="1" parent="s0vS6T7ZR6d3VVXpmbaL-1">
+          <mxGeometry x="122" y="287" width="49" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="2ZcNzLMW6mV6-9NS138O-3" value="&lt;b&gt;REST API&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="s0vS6T7ZR6d3VVXpmbaL-1">
+          <mxGeometry x="114" y="341" width="66" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
