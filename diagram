@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T19:01:39.017Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="5FQs9SHvB1v8Of_jbZd5" version="14.8.0" type="github" pages="24">
+<mxfile host="app.diagrams.net" modified="2021-06-18T19:09:51.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="VRecapf_o4o9VbnM0FxI" version="14.8.0" type="github" pages="24">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="entity_relationship_diagram">
     <mxGraphModel dx="1209" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -2140,7 +2140,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="-lMq1ApAxKa9mCszqwGq" name="Usecase: Doing exercise">
-    <mxGraphModel dx="1209" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="999" dy="457" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-0" />
         <mxCell id="CJJ8LGtJtTGwLY5N7YLZ-1" parent="CJJ8LGtJtTGwLY5N7YLZ-0" />
@@ -2275,7 +2275,7 @@
         <mxCell id="OEL0ApElb08OcboSrX1V-17" value="Do match the pair quiz" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;fillColor=#fff2cc;strokeColor=#d6b656;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
           <mxGeometry x="1708.0000000000002" y="453" width="244" height="54" as="geometry" />
         </mxCell>
-        <mxCell id="xDmyX9fUjNmHslUcK1eJ-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=block;endFill=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="sRhX8g_d-8vG4uLKHIDN-2" target="OEL0ApElb08OcboSrX1V-11" edge="1">
+        <mxCell id="xDmyX9fUjNmHslUcK1eJ-6" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=18;endArrow=block;endFill=0;exitX=0.283;exitY=0.936;exitDx=0;exitDy=0;exitPerimeter=0;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" source="sRhX8g_d-8vG4uLKHIDN-2" target="OEL0ApElb08OcboSrX1V-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OEL0ApElb08OcboSrX1V-19" value="Do elements in word quiz" style="ellipse;whiteSpace=wrap;html=1;fontSize=18;" parent="CJJ8LGtJtTGwLY5N7YLZ-1" vertex="1">
